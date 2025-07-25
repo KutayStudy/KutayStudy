@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KutayStudy
 - 👀 I’m interested in endless world of software.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning C++, and I already know Java and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kutaystudy@gmail.com
 
