@@ -46,8 +46,7 @@ I build backend-heavy systems with **Java, Python, TypeScript, FastAPI, Spring B
 ## GitHub Overview
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-private-sigma.vercel.app/api?username=KutayStudy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats-private-sigma.vercel.app/api/top-langs/?username=KutayStudy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook&size_weight=0.5&count_weight=0.5&custom_title=Language%20Distribution" />
+  <img height="180" src="https://github-readme-stats-private-sigma.vercel.app/api/top-langs/?username=KutayStudy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=javascript,html,css,jupyter%20notebook&size_weight=0.5&count_weight=0.5&custom_title=Core%20Language%20Distribution" />
 </p>
 
 ---
