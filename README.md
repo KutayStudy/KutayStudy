@@ -1,4 +1,4 @@
-,<h1 align="center">Kutay Çalış</h1>
+<h1 align="center">Kutay Çalış</h1>
 
 <h3 align="center">
 Computer Engineering Student · Backend Developer · AI Systems Builder
