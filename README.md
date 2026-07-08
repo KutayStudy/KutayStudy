@@ -1,4 +1,4 @@
-<h1 align="center">Kutay Çalış</h1>
+,<h1 align="center">Kutay Çalış</h1>
 
 <h3 align="center">
 Computer Engineering Student · Backend Developer · AI Systems Builder
@@ -96,22 +96,3 @@ Dedi — AI-Powered Critical Thinking Platform
 - Interested in graph algorithms, dynamic programming, search, optimization, and competitive programming
 
 ---
-
-## Main Engineering Interests
-
-<pre>
-Backend Engineering        ██████████
-AI Systems & RAG           █████████
-Algorithms & C++           ████████
-Databases & System Design  ███████
-Machine Learning           ██████
-</pre>
-
----
-
-## Contact
-
-- Email: **kutaystudy@gmail.com**
-- LinkedIn: [linkedin.com/in/kutaycalis](https://www.linkedin.com/in/kutaycalis)
-- GitHub: [github.com/KutayStudy](https://github.com/KutayStudy)
-- LeetCode: [leetcode.com/kutaystudy](https://leetcode.com/kutaystudy)
